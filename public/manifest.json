@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Margamukti Greenhouse",
+  "short_name": "Margamukti",
+  "description": "Sistem Registri & Manajemen Budidaya Melon Margamukti Greenhouse (Sinar Makmur) 0-75 HST.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#065f46",
+  "background_color": "#065f46",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

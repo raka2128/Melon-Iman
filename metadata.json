@@ -1,0 +1,6 @@
+{
+  "name": "Margamukti Greenhouse",
+  "description": "Sistem Manajemen & Registri Budidaya Melon Margamukti Greenhouse (Sinar Makmur Premium Melon) media polybag 0-75 HST.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
